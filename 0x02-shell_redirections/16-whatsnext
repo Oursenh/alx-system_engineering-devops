@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -a 3 "root" /etc/psswd
+egrep -A 3 "root" /etc/psswd
